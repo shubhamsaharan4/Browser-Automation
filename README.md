@@ -1,4 +1,6 @@
 # Browser-Automation
+There are three different scripts for three different websites but the working is same, also three excel sheets of data required by the script provided.
+
 Browser Automation Scripts 
 This code is a Python application designed to automate the extraction of billing information from a specific web page using Selenium WebDriver and Tkinter for a graphical user interface (GUI). Here’s a breakdown of its functionality and workflow:
 
